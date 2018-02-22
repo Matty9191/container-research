@@ -1,2 +1,3 @@
-# container-research
-Files related to Linux container research.
+# Container research
+
+The repository contains files and scripts I've developed while studying the inner workings of Linux containers.
